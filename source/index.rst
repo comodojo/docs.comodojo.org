@@ -11,6 +11,7 @@ docs.comodojo.org
 .. _comodojo/rpcclient: /projects/rpcclient
 .. _comodojo/foundation: /projects/foundation
 .. _comodojo/installer: /projects/installer
+.. _comodojo/zip: /projects/zip
 
 .. _Creative Commons Attribution 4.0 International: http://creativecommons.org/licenses/by/4.0/
 
@@ -32,6 +33,7 @@ Libraries
 - `comodojo/cookies`_
 - `comodojo/rpcserver`_
 - `comodojo/rpcclient`_
+- `comodojo/zip`_
 
 Others
 ------
